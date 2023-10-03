@@ -1,0 +1,12 @@
+C:\Users\cece0\Documents\Programacion2\OrdenRetiroApp_Parcial\bin\Debug\OrdenRetiroApp_Parcial.exe.config
+C:\Users\cece0\Documents\Programacion2\OrdenRetiroApp_Parcial\bin\Debug\OrdenRetiroApp_Parcial.exe
+C:\Users\cece0\Documents\Programacion2\OrdenRetiroApp_Parcial\bin\Debug\OrdenRetiroApp_Parcial.pdb
+C:\Users\cece0\Documents\Programacion2\OrdenRetiroApp_Parcial\obj\Debug\OrdenRetiroApp_Parcial.csproj.AssemblyReference.cache
+C:\Users\cece0\Documents\Programacion2\OrdenRetiroApp_Parcial\obj\Debug\OrdenRetiroApp_Parcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\cece0\Documents\Programacion2\OrdenRetiroApp_Parcial\obj\Debug\OrdenRetiroApp_Parcial.Presentacion.frmOrdenRetiro.resources
+C:\Users\cece0\Documents\Programacion2\OrdenRetiroApp_Parcial\obj\Debug\OrdenRetiroApp_Parcial.frmPrincipal.resources
+C:\Users\cece0\Documents\Programacion2\OrdenRetiroApp_Parcial\obj\Debug\OrdenRetiroApp_Parcial.Properties.Resources.resources
+C:\Users\cece0\Documents\Programacion2\OrdenRetiroApp_Parcial\obj\Debug\OrdenRetiroApp_Parcial.csproj.GenerateResource.cache
+C:\Users\cece0\Documents\Programacion2\OrdenRetiroApp_Parcial\obj\Debug\OrdenRetiroApp_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\cece0\Documents\Programacion2\OrdenRetiroApp_Parcial\obj\Debug\OrdenRetiroApp_Parcial.exe
+C:\Users\cece0\Documents\Programacion2\OrdenRetiroApp_Parcial\obj\Debug\OrdenRetiroApp_Parcial.pdb
